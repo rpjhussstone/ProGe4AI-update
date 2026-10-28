@@ -21,7 +21,7 @@ The app comes fully loaded with 34 Text Prompts and 35 Image Prompts, covering a
 
 ⚙️ 2. Smart "Fill-in-the-Blanks" Customization
 
-Every prompt is interactive. Instead of just copying static text, the app generates dynamic input fields for variables (like $1, $2, $3). You simply fill in the blanks with your own ideas, guided by helpful examples (e.g., Oh: Cyberpunk, Ex: Paris, e.g. 8k resolution), and the app perfectly structures your custom prompt.
+Every prompt is interactive. Instead of just copying static text, the app generates dynamic input fields for variables. You simply fill in the blanks with your own ideas, guided by helpful examples (e.g., Oh: Cyberpunk, Ex: Paris, e.g. 8k resolution), and the app perfectly structures your custom prompt.
 
 🌍 3. Full Multilingual Support
 
