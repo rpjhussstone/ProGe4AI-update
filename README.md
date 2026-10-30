@@ -11,12 +11,12 @@ ProGe4AI is a comprehensive Android application designed to help you master Arti
 
 Here is exactly what you will find inside the latest release:
 
-📦 1. Extensive & Updatable Prompt Library (34 Text + 35 Image)
+📦 1. Extensive & Updatable Prompt Library (34 for Text + 26 for Image)
 
-The app comes fully loaded with 34 Text Prompts and 35 Image Prompts, covering almost every aspect of your daily life, work, and creativity:
+The app comes fully loaded with 34 Text Prompts and 26 Image Prompts, covering almost every aspect of your daily life, work, and creativity:
 
 · Text Prompts (34): Includes templates for Education (summaries, study plans, quizzes), Work (CVs, cover letters, emails, business plans), Personal & Hobbies (poems, Kabary, love letters), and Health/Self-Development.
-· Image Prompts (35): Highly detailed templates for Photorealistic Portraits, Surreal Art, 3D Glassmorphism, Cinematic Cityscapes, and Action Sports posters.
+· Image Prompts (26): Highly detailed templates for Photorealistic Portraits, Surreal Art, 3D Glassmorphism, Cinematic Cityscapes, and Action Sports posters.
 · 🔄 Updatable Content: The library is not static! The app features a built-in updater that allows you to download new prompt packs (ZIP files) directly from GitHub. You will never run out of fresh ideas.
 
 ⚙️ 2. Smart "Fill-in-the-Blanks" Customization
