@@ -9,12 +9,12 @@ Generate, customize, and master AI prompts for Text and Images, both Online and 
 
 ProGe4AI is a comprehensive Android application designed to help you master Artificial Intelligence. Whether you are a student, a professional, or a content creator, this app provides you with a vast, updatable library of highly detailed prompts.
 
-<img width="1080" height="2400" alt="1000030830" src="https://github.com/user-attachments/assets/675bd75e-ad01-4cbd-9fbc-9b77d741a110" />
-<img width="1080" height="2400" alt="1000030829" src="https://github.com/user-attachments/assets/fcd2c9df-fa02-49a7-9f57-1c003515d770" />
-<img width="1080" height="2400" alt="1000030828" src="https://github.com/user-attachments/assets/6cf8c01f-ffc9-4f16-bf46-6f39ccb3cfcb" />
-<img width="1080" height="2400" alt="1000030827" src="https://github.com/user-attachments/assets/7bfd1428-e38c-4c39-a689-3a969e16fea0" />
-<img width="1080" height="2400" alt="1000030826" src="https://github.com/user-attachments/assets/530fb33e-fdfc-4124-a7f9-38b35a67abcf" />
 <img width="1080" height="2400" alt="1000030825" src="https://github.com/user-attachments/assets/4f2afc54-8298-4a1a-bc27-a6af44ee8759" />
+<img width="1080" height="2400" alt="1000030826" src="https://github.com/user-attachments/assets/530fb33e-fdfc-4124-a7f9-38b35a67abcf" />
+<img width="1080" height="2400" alt="1000030827" src="https://github.com/user-attachments/assets/7bfd1428-e38c-4c39-a689-3a969e16fea0" />
+<img width="1080" height="2400" alt="1000030828" src="https://github.com/user-attachments/assets/6cf8c01f-ffc9-4f16-bf46-6f39ccb3cfcb" />
+<img width="1080" height="2400" alt="1000030829" src="https://github.com/user-attachments/assets/fcd2c9df-fa02-49a7-9f57-1c003515d770" />
+<img width="1080" height="2400" alt="1000030830" src="https://github.com/user-attachments/assets/675bd75e-ad01-4cbd-9fbc-9b77d741a110" />
 
 
 Here is exactly what you will find inside the latest release:
